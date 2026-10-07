@@ -1,0 +1,2 @@
+# IEEE-Poster-Presentation-Dr.BottleGourd24-Bottle-Gourd-Leaf-Disease-Classification-with-CNN
+This study presents a CNN-based approach for classifying bottle gourd leaf diseases. The model achieves high accuracy and specificity, with a focus on distinguishing between healthy and diseased leaves. The results demonstrate the potential of CNN-based methods for automated disease diagnosis in plant pathology.
